@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CANDO-JAIME-LECCION1-BACK.props" />
+</Project>

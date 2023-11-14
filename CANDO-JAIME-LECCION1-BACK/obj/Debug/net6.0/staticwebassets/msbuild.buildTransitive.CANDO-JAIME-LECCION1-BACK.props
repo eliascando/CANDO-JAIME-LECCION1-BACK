@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CANDO-JAIME-LECCION1-BACK.props" />
+</Project>
